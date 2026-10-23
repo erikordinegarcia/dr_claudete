@@ -164,7 +164,7 @@ h1 em { font-style: italic; color: var(--wine); font-weight: 600; }
   position: relative; overflow: hidden; color: #f3e6dc;
   min-height: min(100vh, 840px); display: flex; align-items: center;
   padding: calc(var(--header-h) + 40px) 0 48px;
-  background: #1d050b url("../assets/images/hero-bg.jpg") right center / auto 100% no-repeat;
+  background: #1d050b url("../assets/images/justica-hero.jpg") right center / auto 100% no-repeat;
 }
 .hero__scene { display: none; }
 .hero__statue { display: none; }
